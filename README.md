@@ -4,10 +4,6 @@ My name is Simon, living in Solingen, Germany. I'm working for Instana as a Seni
 
 <br />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simonThiele&show_icons=true&count_private=true" alt="simonThiele" />
-</p>
-<br />
-<p align="center">
   <img src="https://api.iconify.design/logos:javascript.svg" alt="javascript" width="32" height="32"/> &nbsp;
   <img src="https://api.iconify.design/logos:docker-icon.svg" alt="docker" width="32" height="32"/> &nbsp;
   <img src="https://api.iconify.design/logos:react.svg" alt="react" width="32" height="32"/> &nbsp;
