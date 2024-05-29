@@ -13,7 +13,6 @@ My name is Simon, living in Solingen, Germany. I'm working for Steadybit as a Se
   <img src="https://api.iconify.design/logos:jest.svg" alt="jest" width="32" height="32"/> &nbsp;
   <img src="https://api.iconify.design/logos:webpack.svg" alt="webpack" width="32" height="32"/> &nbsp;
   <img src="https://api.iconify.design/logos:nodejs-icon.svg" alt="nodejs" width="32" height="32"/> &nbsp;
-  <img src="https://api.iconify.design/simple-icons:styled-components.svg" alt="styled components" width="32" height="32"/> &nbsp;
   <img src="https://api.iconify.design/logos:java.svg" alt="java" width="32" height="32"/> &nbsp;
   <img src="https://api.iconify.design/logos:unity.svg" alt="java" width="32" height="32"/> &nbsp;
   <img src="https://api.iconify.design/vscode-icons:file-type-vscode.svg" alt="java" width="32" height="32"/> &nbsp;
